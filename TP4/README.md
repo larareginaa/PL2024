@@ -1,4 +1,4 @@
-### **TPC3**: Somador on/off
+### **TPC4**: SQL Tokenizer
 ### **Autor**: Lara Regina da Silva Pereira, A100556
 
 ------------------------------------------------------------------------------
